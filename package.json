@@ -1,6 +1,6 @@
 {
   "name": "qr-inno",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Create QR svg",
   "main": "index.js",
   "scripts": {
