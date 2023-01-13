@@ -2,4 +2,4 @@ const getQRSVG = ()=>{
     alert();
 }
 
-module.exports.QRSVG = {getQRSVG};
+module.exports.getQRSVG = getQRSVG;

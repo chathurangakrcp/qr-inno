@@ -1,0 +1,22 @@
+{
+  "name": "qr-inno",
+  "version": "1.0.0",
+  "description": "Create QR svg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chathurangakrcp/qr-inno.git"
+  },
+  "keywords": [
+    "QR"
+  ],
+  "author": "Chathuranga Kaththota",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chathurangakrcp/qr-inno/issues"
+  },
+  "homepage": "https://github.com/chathurangakrcp/qr-inno#readme"
+}
